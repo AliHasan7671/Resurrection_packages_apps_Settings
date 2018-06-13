@@ -85,6 +85,12 @@
             android:defaultValue="false" />
     </PreferenceCategory>
 
+     <com.rr.settings.preferences.SystemSettingSwitchPreference  
+        android:key="disable_fc_notifications" 
+        android:title="@string/disable_fc_notifications_title" 
+        android:summary="@string/disable_fc_notifications_summary" 
+        android:defaultValue="false" /> 
+
     <PreferenceCategory
         android:key="corners_category"
         android:title="@string/corners_category" >
