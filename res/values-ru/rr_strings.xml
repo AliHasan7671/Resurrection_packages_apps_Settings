@@ -2138,4 +2138,11 @@
     <string name="qs_brightness_slider_hide">Скрыть</string>
     <string name="qs_brightness_slider_top">Сверху</string>
     <string name="qs_brightness_slider_bottom">Внизу</string>
+
+    <!-- Smart charging -->
+    <string name="smart_charging_title">Умная зарядка</string>
+    <string name="smart_charging_summary">Установите максимальный уровень зарядки</string>
+    <string name="smart_charging_switch_title">Использовать Умную зарядку</string>
+    <string name="smart_charging_level_title">Уровень запуска</string>
+    <string name="smart_charging_footer">Умная зарядка позволяет вам установить максимальный уровень зарядки, чтобы продлить срок службы вашей батареи</string>
 </resources>
